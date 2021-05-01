@@ -14,4 +14,4 @@ First and only argument is an integer A.
 
 ### Output Format
 
-Display an integer denoting the Ath Fibonacci number/
+Display an integer denoting the Ath Fibonacci number
