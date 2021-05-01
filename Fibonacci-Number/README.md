@@ -1,6 +1,6 @@
 # Fibonacci Number
 
-# Problem Description
+### Problem Description
 
 Given a positive integer A, write a program to find the Ath Fibonacci number.
 
@@ -8,10 +8,10 @@ In a Fibonacci series, each term is the sum of the previous two terms and the fi
 
 NOTE: 0th term is 0. 1th term is 1 and so on.
 
-# Input Format
+### Input Format
 
 First and only argument is an integer A.
 
-# Output Format
+### Output Format
 
 Display an integer denoting the Ath Fibonacci number/
